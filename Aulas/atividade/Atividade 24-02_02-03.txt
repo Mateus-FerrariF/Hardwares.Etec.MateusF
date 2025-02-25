@@ -1,0 +1,5 @@
+MB: 		Rog Strix X670e-I (Mini-ITX, AM5)
+Case: 		Sharkoon Mini ITX QB ONE (Sharkoon)
+GPU: 		RTX 4070 Super Verto Dual Fan 12gb (NVIDIA)
+Processador: 	Ryzen 7 7800X3D (AMD, AM5)
+Cooler:		 
